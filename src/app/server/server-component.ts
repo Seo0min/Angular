@@ -5,5 +5,6 @@ import { Component } from '@angular/core';
   //   should be unique
   templateUrl: './server-component.html',
   // point to the html file
+  styleUrl: './server-component.css',
 })
 export class ServerComponent {}
